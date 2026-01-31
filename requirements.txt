@@ -1,0 +1,8 @@
+ccxt==4.4.90
+hyperliquid==0.4.66
+matplotlib==3.10.6
+numpy==2.3.3
+pandas==2.3.2
+Requests==2.32.5
+tqdm==4.67.1
+pyarrow==16.1.0
